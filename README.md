@@ -1,6 +1,6 @@
 Repro case for mrnocreativity/postcss-critical-split.  
 
-See [Issue](https://github.com/jonax/postcss-critical-split-issue-10) for more details.  
+See [Issue](https://github.com/mrnocreativity/postcss-critical-split/issues/10) for more details.  
 
 ### Usage
 
