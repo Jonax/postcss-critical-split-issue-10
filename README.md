@@ -4,6 +4,8 @@ See [Issue](https://github.com/mrnocreativity/postcss-critical-split/issues/10) 
 
 ### Usage
 
+**NOTE**: If gulp isn't already installed, run `npm install gulp-cli -g` beforehand.  
+
 ```
 cd setup
 npm install
