@@ -1,0 +1,17 @@
+{
+	"name": "postcss-critical-split-issue-10",
+	"version": "1.0.0",
+	"description": "Repro case for mrnocreativity/postcss-critical-split issue #10",
+	"repository": "https://github.com/jonax/postcss-critical-split-issue-10",
+	"main": "gulpfile.babel.js",
+	"dependencies": {
+		"babel-core": "latest",
+		"babel-preset-env": "latest",
+		"gulp": "github:gulpjs/gulp#4.0",
+		"gulp-postcss": "latest",
+		"gulp-rename": "latest",
+		"postcss-critical-split": "latest"
+	},
+	"author": "Jon Wills",
+	"license": "ISC"
+}

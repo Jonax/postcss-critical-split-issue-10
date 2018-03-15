@@ -23,6 +23,9 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+# NPM package lock file
+package-lock.json
+
 # Bower dependency directory (https://bower.io/)
 bower_components
 
@@ -57,3 +60,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Local dest folder for generated files
+dest/
+
+# Project files for Sublime Text
+*.sublime-project
+*.sublime-workspace
